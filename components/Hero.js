@@ -29,7 +29,7 @@ export default function Hero() {
         <h1 className="text-3xl font-bold tracking-tight text-gradient md:text-4xl lg:text-6xl">
           👋 Hi, I'm Panji Ariyo
         </h1>
-        <p className="mt-10 text-lg text-gray-600 md:text-2xl lg:text-3xl dark:text-gray-200">A dad of a son and 3 cats.</p>
+        <p className="mt-10 text-lg text-gray-600 md:text-2xl lg:text-3xl dark:text-gray-200">A dad of a son and language enthusiast</p>
         <div className="mt-10 flex items-center justify-center gap-x-6">
           <SocialIcons />
         </div>
